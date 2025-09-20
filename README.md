@@ -1,4 +1,4 @@
-# FSIF (ICML 2025)
+# FISF (ICML 2025)
 This repository is the official PyTorch implementation of "Propagate and Inject: Revisiting Propagation-Based Feature Imputation for Graphs with Partially Observed Features" [[Paper](https://openreview.net/forum?id=QfKrcgyase)]. The codes are built on [Feature Propagation](https://github.com/twitter-research/feature-propagation).
 
 ## Requirements
